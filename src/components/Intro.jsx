@@ -12,7 +12,7 @@ function Intro() {
             <br />
             Technical Skills - Python, HTML, CSS, JavaScript, Java, Spring Boot, Flask, Git, Github, VSCode, MySQL
 Workbench, Microsoft SSMS, Jupyter, React.js, Next.js 
-{' '}
+{' '} <br />
             <a
                href="https://leetcode.com/ashharr/"
                target="_blank"
