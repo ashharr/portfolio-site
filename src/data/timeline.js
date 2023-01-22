@@ -1,10 +1,10 @@
 export default [
    {
       year: 'What\'s Next?',
-      title: '10x Software Engineer',
+      title: '10x Software Engineer 😇',
       duration: 'Present',
       details: 
-         `I\’m currently learning web development frameworks such as React. Also working on further improving my DSA skills by solving problems on LeetCode
+         `I\’m currently learning web development frameworks such as React. Also working on further improving my DSA skills by solving problems on LeetCode.
 		 I\’m looking to collaborate on projects and I'm also open to work.`,
    },
 	{
