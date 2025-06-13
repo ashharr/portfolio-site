@@ -1,38 +1,39 @@
 export default [
    {
       year: 'What\'s Next?',
-      title: '10x Software Engineer 😇',
-      duration: 'Present',
+      title: '100x Engineer',
+      duration: 'Future',
       details: 
-         `I\’m currently learning web development frameworks such as React. Also working on further improving my DSA skills by solving problems on LeetCode.
-		 I\’m looking to collaborate on projects and I'm also open to work.`,
+         `Aspiring to become a Principal Engineer, focusing on cloud-native architecture and enterprise-scale solutions.
+         Goals include mastering distributed systems, cloud platforms (AWS/Azure), and leading large-scale technical initiatives.
+         Passionate about mentoring developers and driving technical excellence in building scalable, resilient systems.`,
    },
-	{
-		year: 'Today',
-		title: 'Software Engineer',
-		duration: '2 years',
-		details:
-			'Software engineer at Hexaware with two years of development experience. Working extensively as a backend developer. Designing and developing new features for enterprise applications.',
-	},
-	{
-		year: '2021',
-		title: "Bachelor's in Computer Engineering",
-		duration: '4 years',
-		details:
-			'I pursued computer engineering degree from Mumbai University. I learned about computer science, data structures and algorithms, an array of programming languages and SDLC.',
-	},
-	{
-		year: '2019',
-		title: 'Winner of World\'s Largest Hackathon',
-		duration: '1 year',
-		details:
-			"Won the Smart India Hackathon 2019 Grand Finale held at IIT Roorkee. Awarded cash prize and a trophy for solving the problem statement of building a machine learning enabled chatbot for mutual funds.",
-	},
-	{
-		year: '2018',
-		title: 'First Line of Code',
-		duration: 'The Beginning',
-		details:
-			"As someone who never imagined themselves as anything other than a programmer, writing my first line of code in C Programming language started my journey into the world of Information Technology.",
-	},
+   {
+      year: '2024',
+      title: 'Senior Software Engineer at Ascendion',
+      duration: 'Present',
+      details:
+         'Leading the design and development of scalable backend microservices using Java and Spring Boot. Orchestrating containerization and deployment using Docker and AWS. Spearheading Agentic AI transformation initiatives.',
+   },
+   {
+      year: '2021-2024',
+      title: 'Software Engineer at Hexaware Technologies',
+      duration: '2.5 years',
+      details:
+         'Implemented RESTful APIs using Spring Boot and MySQL, increasing API response speed by 25%. Reduced database read time by 30% through optimized query techniques. Pioneered Test-Driven Development methodology, reducing code defects by 25%.',
+   },
+   {
+      year: '2021',
+      title: "Bachelor's in Computer Engineering",
+      duration: '4 years',
+      details:
+         'Graduated from Mumbai University with a CGPA of 8.48/10.00. Specialized in computer science, data structures and algorithms, programming languages and SDLC.',
+   },
+   {
+      year: '2019',
+      title: 'Winner of World\'s Largest Hackathon',
+      duration: '3 months',
+      details:
+         'Led a team of 5 developers to win Smart India Hackathon 2019 Grand Finale at IIT Roorkee. Developed a machine learning enabled chatbot for mutual funds using Python, Flask, MySQL, and Dialogflow.',
+   },
 ]
